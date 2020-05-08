@@ -1,4 +1,22 @@
-.main {
-  background-color: #f0f;
+#main {
+  background-color: whitesmoke;
   color: black;
+}
+
+body {
+  margin-top: 60px;
+}
+
+.jumbotron{
+  text-align: center;
+}
+
+#tribute-info{
+  text-align: center justify;
+  margin-left: 25%;
+  line-height: 2rem;
+}
+
+#img-div {
+
 }
